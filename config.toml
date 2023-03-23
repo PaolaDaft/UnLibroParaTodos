@@ -1,24 +1,20 @@
-baseURL = "http://example.org/"
+baseurl = "https://example.org/"
+title = "METAP"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
-title = "METAP"
-description = "Un libro para todos: educación inclusiva"
-logo = "https://user-images.githubusercontent.com/68626833/227285084-f8c4aee6-0a53-441d-929f-1e4caab1f682.png"
-style = "blue"
-
-[[menu.main]]
-name = "Inicio"
-url = "/"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "METAP"
+# Enable Google Analytics by entering your tracking code
+#googleAnalytics = ""
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  style = "blue"
+  description = "Un libro para todos: educación inclusiva"
+  copyright = "&copy;2022 METAP"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    '"Un libro para todos" es una iniciativa de METAP donde el objetivo es crear y distribuir libros de educación inclusiva ya que creemos que la mejor forma de promover la inclusión es forma conciencia de como hacer compañía es esta comunidades que son una minoría'
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -59,9 +55,9 @@ url = "/"
 
   [params.social]
   facebook      = "full page or profile url in facebook"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  instagram     = "full profile url in instagram"
+  email         = "andrepaolagd@gmail.com.com"
+  twitter       = "https://twitter.com/Paola_Daft"
+  linkedin      = "https://www.linkedin.com/in/andrea-paola-garc%C3%ADa-659292124/"
+  instagram     = "https://www.instagram.com/paola_daft/"
   youtube       = "full profile url in youtube"
   whatsapp      = "wa.me service link"
