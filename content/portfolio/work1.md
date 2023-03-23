@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "https://user-images.githubusercontent.com/68626833/227579326-283a098a-2698-4480-b033-b02ada37587f.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Name of the work 1"
 weight = 0
