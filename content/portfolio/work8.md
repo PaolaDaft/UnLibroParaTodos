@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/ipad-air-2.jpg"
+image = "https://user-images.githubusercontent.com/68626833/227718707-b0b1c475-89a5-48ec-8f10-093fa9d6ea75.png"
 date = "2016-11-05T19:59:22+05:30"
 title = "Name of the work 8"
 weight = 8
