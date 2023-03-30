@@ -25,7 +25,7 @@
 
 <!-- Custom stylesheet - for your changes -->
 <link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
-<link rel="shortcut icon" href="{{ "img/favicon.png" | absURL }}">
+<link rel="shortcut icon" href="{{ "https://user-images.githubusercontent.com/68626833/228965460-8682656f-79b6-408a-b6cb-888ff7d044ff.png" | absURL }}">
 {{ with .OutputFormats.Get "RSS" }}
   {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
 {{ end }}
