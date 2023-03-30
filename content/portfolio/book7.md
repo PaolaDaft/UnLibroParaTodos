@@ -1,49 +1,35 @@
 +++
-image = "https://user-images.githubusercontent.com/68626833/227718671-b3676655-4843-41d5-9b1e-e5fd3201591b.png"
 showonlyimage = false
-date = "2022-11-05T19:44:32+05:30"
-title = "Mi Familia Diversa"
 draft = false
-weight = 7 
+image = "https://user-images.githubusercontent.com/68626833/227718707-b0b1c475-89a5-48ec-8f10-093fa9d6ea75.png"
+date = "2016-11-05T19:59:22+05:30"
+title = "El misterio de la igualdad"
+weight = 7
 +++
 
-Libro dirigido a adolescentes que celebra la diversidad y la inclusión en las familias modernas. A través de historias y ejemplos de familias diversas, el libro ayuda a los niños a comprender que no hay una sola forma "correcta" de tener una familia.
+Este libro presenta a los lectores un misterio por resolver, en el cual los personajes principales deben trabajar juntos para descubrir quién está discriminando a un miembro de su comunidad. A medida que resuelven el misterio, los personajes aprenden sobre la importancia de la igualdad y la inclusión.
 <!--more-->
 
-En el libro se exploran temas como la adopción, el matrimonio igualitario, la monoparentalidad, las familias mixtas, la diversidad cultural y la inclusión de personas con discapacidades en la familia. Además, el libro anima a los niños a valorar y respetar a todas las familias, independientemente de su forma, tamaño o estructura.
+El libro se centra en la historia de cuatro amigos que se enfrentan a la discriminación de género en su comunidad escolar y deciden investigar por qué la igualdad todavía no se ha logrado en su sociedad. A través de su investigación, aprenden sobre la historia de la igualdad de género, las diferentes formas de discriminación de género y cómo pueden contribuir a crear un cambio positivo.
 
-### Tabla de contenido
+La historia se centra en la necesidad de involucrar a todas las personas en la lucha por la igualdad y cómo cada uno puede contribuir a crear un mundo más justo y equitativo.
 
-1. Introducción: ¿Qué es una familia?
+### Tabla de contenido:
 
-2. Familias adoptivas: historias de amor y aceptación.
+1. Introducción: ¿Qué es la igualdad y por qué es importante?
+2. Historia de la igualdad de género: cómo hemos llegado hasta aquí.
+3. La discriminación de género: formas sutiles y no tan sutiles de discriminación.
+4. Mitos y realidades sobre la igualdad de género: desmontando estereotipos.
+5. El papel de la educación en la igualdad de género: cómo la educación puede ser una herramienta de cambio.
+6. Creando cambios positivos: acciones para fomentar la igualdad de género en nuestra comunidad.
+7. El futuro de la igualdad de género: ¿Qué nos depara el futuro y cómo podemos contribuir a crear un mundo más justo y equitativo?
 
-3. Matrimonio igualitario: celebrando el amor en todas sus formas.
-
-4. Familias monoparentales: una fuerza poderosa en la crianza de los hijos.
-
-5. Familias mixtas: la riqueza de la diversidad cultural en las familias.
-
-6. Familias LGBTQ+: historias y experiencias de familias conformadas por padres o madres del mismo género.
-
-7. Inclusión de personas con discapacidades en la familia: aprender a valorar y respetar las diferencias.
-
-8. Familias en todas partes: la diversidad en las familias de todo el mundo.
-
-9. Conclusiones: el amor es lo que hace que una familia sea una familia.
-
-Este libro es una herramienta valiosa para enseñar a los estudiantes la importancia de la inclusión y el respeto por la diversidad en nuestras familias y en nuestras comunidades.
-
-
-
-> *Mi Familia Diversa* es un libro que invita a adolescentes a reflexionar sobre la diversidad en las familias y la inclusión. A través de historias y ejemplos reales, el libro explora cómo la diversidad en todas sus formas nos enriquece como sociedad y cómo podemos fomentar un ambiente más inclusivo en nuestra comunidad.
+>Un grupo de amigos de secundaria investiga el misterioso caso de por qué todavía no hay igualdad entre géneros y cómo pueden ayudar a crear un mundo más justo y equitativo para todos.
 
 <div>
-<p style = 'text-align:center;'>
-<img src="https://user-images.githubusercontent.com/68626833/227661420-01b73ea0-3153-478d-a53b-ca6a33644a41.jpg" alt="Portada del libro" width="250px">
+    <p style = 'text-align:center;'>
+    <img src="https://user-images.githubusercontent.com/68626833/227661416-1db64a36-c728-45d4-b8cd-a6471166d85f.jpg" alt="Portada del libro" width="250px">
 </p>
 </div>
 
-En un mundo cada vez más diverso, es importante que los adolescentes comprendan la importancia de la inclusión y la aceptación de todas las personas, independientemente de su origen, género, orientación sexual, religión o discapacidad. Este libro busca promover esa comprensión y hacer que los adolescentes se sientan más cómodos y seguros en su relación con los demás.
-
->Cada capítulo incluirá relatos inspiradores y experiencias personales de personas que han vivido estas diferentes estructuras familiares, así como información relevante y útil para los adolescentes.
+> Un emocionante libro donde en cada lección puedes resolver un misterio y algo nuevo sobre igualdad e inclusión. 
