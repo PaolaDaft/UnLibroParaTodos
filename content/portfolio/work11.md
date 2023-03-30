@@ -1,31 +1,30 @@
 +++
 draft = false
-image = "img/portfolio/paper-presentation.jpg"
+image = "https://user-images.githubusercontent.com/68626833/227661412-4c2f834e-e6b9-47ca-84c6-3125d8f3a7c5.jpg"
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
-title = "Item with image"
+title = "El Club de los Valientes"
 weight = 11
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+"El Club de los Valientes" - Un libro sobre un grupo de niños que se unen para hacer frente al acoso escolar y promover la inclusión en su escuela.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+<div>
+    <p style = 'text-align:center;'>
+    <img src="https://user-images.githubusercontent.com/68626833/227718720-2a9e0de5-7516-4d34-9d85-960631ba0592.png" alt="Portada del libro" width="300px">
+</p>
+</div>
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+### Tabla de contenido:
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+1. Introducción: El problema del acoso escolar
+1. El primer día de clases y los primeros indicios de acoso
+1. Conociendo al Club de los Valientes
+1. Estrategias para enfrentar el acoso
+1. Dando un paso adelante: cómo ser un valiente
+1. El poder de la inclusión: cómo aceptar y apoyar a todos los compañeros
+1. Celebrando las diferencias: la importancia de la diversidad y la inclusión
+2. Fin de año: el progreso del Club de los Valientes y su legado
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+> Los personajes aprenden la importancia de ser valientes y defender a los demás en lugar de quedarse callados ante el acoso.
