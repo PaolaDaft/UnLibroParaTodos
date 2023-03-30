@@ -2,7 +2,7 @@
 draft = false
 image = "https://user-images.githubusercontent.com/68626833/227661410-691bc85b-9734-4c5f-be3c-a97a1f98b1a9.jpg"
 showonlyimage = false
-date = "2016-11-05T20:02:19+05:30"
+date = "2022-11-05T20:02:19+05:30"
 title = "Más allá de las etiquetas"
 weight = 8
 +++

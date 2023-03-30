@@ -37,7 +37,7 @@ En el libro, se presentan ejemplos de mujeres influyentes en la cultura popular 
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://user-images.githubusercontent.com/68626833/227661422-3030d906-3583-44d0-ac7f-5275ac9c30bf.jpg" alt="JuveYell" width="250px">
+<img src="https://user-images.githubusercontent.com/68626833/227661422-3030d906-3583-44d0-ac7f-5275ac9c30bf.jpg" alt="Portada del libro" width="250px">
 </p>
 </div>
 

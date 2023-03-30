@@ -2,7 +2,7 @@
 draft = false
 image = "https://user-images.githubusercontent.com/68626833/227661418-70543410-ab9e-4149-934e-aebce43cb787.jpg"
 showonlyimage = true
-date = "2016-11-05T20:22:08+05:30"
+date = "2022-11-05T20:22:08+05:30"
 title = "Desafiando Estereotipos"
 weight = 9
 +++
@@ -12,7 +12,7 @@ Un libro que desafía los estereotipos de género y enseña a los adolescentes a
 
 Este libro tiene como objetivo ayudar a los adolescentes a desafiar los estereotipos de género y a aceptarse a sí mismos tal y como son. A través de historias inspiradoras, ejemplos prácticos y actividades interactivas, los jóvenes lectores aprenderán a reconocer los estereotipos de género en su vida cotidiana y a desafiarlos de manera efectiva.
 
-![](https://user-images.githubusercontent.com/68626833/227718723-281700b0-f38c-46a8-aa76-75951bf7eec3.png)
+![Mockup del libro](https://user-images.githubusercontent.com/68626833/227718723-281700b0-f38c-46a8-aa76-75951bf7eec3.png)
 
 ### Tabla de contenido:
 

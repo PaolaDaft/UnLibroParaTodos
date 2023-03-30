@@ -2,7 +2,7 @@
 draft = false
 image = "https://user-images.githubusercontent.com/68626833/227661412-4c2f834e-e6b9-47ca-84c6-3125d8f3a7c5.jpg"
 showonlyimage = true
-date = "2016-11-05T20:23:59+05:30"
+date = "2022-11-05T20:23:59+05:30"
 title = "El Club de los Valientes"
 weight = 10
 +++
@@ -12,7 +12,7 @@ weight = 10
 
 <div>
     <p style = 'text-align:center;'>
-    <img src="https://user-images.githubusercontent.com/68626833/227718720-2a9e0de5-7516-4d34-9d85-960631ba0592.png" alt="Portada del libro" width="300px">
+    <img src="https://user-images.githubusercontent.com/68626833/227718720-2a9e0de5-7516-4d34-9d85-960631ba0592.png" alt="Mockup del libro" width="300px">
 </p>
 </div>
 

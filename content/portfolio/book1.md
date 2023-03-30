@@ -31,7 +31,7 @@ Un libro sobre la amistad y la inclusión que enseña a los niños que no import
 8. **Manos a la obra**: actividades didácticas para los estudiantes desacuerdo a la lección del día. 
 
 
-![](https://user-images.githubusercontent.com/68626833/227720044-5e5a6055-21d9-4e9f-a7c6-4521d8ce2669.png)
+![mockup del libro](https://user-images.githubusercontent.com/68626833/227720044-5e5a6055-21d9-4e9f-a7c6-4521d8ce2669.png)
 
 
 

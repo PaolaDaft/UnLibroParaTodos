@@ -2,7 +2,7 @@
 draft = false
 image = ""
 showonlyimage = false
-date = "2016-11-05T19:50:47+05:30"
+date = "2022-11-05T19:50:47+05:30"
 title = "El Coraje de Ser Diferente"
 weight = 3
 +++
@@ -11,7 +11,7 @@ weight = 3
 <!--more-->
 <div>
 <p style = 'text-align:center;'>
-<img src="https://user-images.githubusercontent.com/68626833/227718715-ee836a41-848f-45bd-a9e2-5fad6bcaec36.png" alt="Portada del libro" width="400px">
+<img src="https://user-images.githubusercontent.com/68626833/227718715-ee836a41-848f-45bd-a9e2-5fad6bcaec36.png" alt="Mockup del libro" width="400px">
 </p>
 </div>
 
