@@ -39,7 +39,7 @@ Un libro sobre la amistad y la inclusión que enseña a los niños que no import
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://user-images.githubusercontent.com/68626833/227721121-c55c0c61-5d29-47ce-ae62-0d579f29d5ba.jpg" alt="JuveYell" width="250px">
+<img src="https://user-images.githubusercontent.com/68626833/227721121-c55c0c61-5d29-47ce-ae62-0d579f29d5ba.jpg" alt="ejemplo de actividad" width="250px">
 </p>
 </div>
 

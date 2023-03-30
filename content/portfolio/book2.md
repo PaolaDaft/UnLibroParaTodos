@@ -1,31 +1,28 @@
 +++
-image = "https://user-images.githubusercontent.com/68626833/227718671-b3676655-4843-41d5-9b1e-e5fd3201591b.png"
+image = "https://user-images.githubusercontent.com/68626833/227661411-d619061b-7f1d-4150-b132-3453a87a8bff.jpg"
 showonlyimage = false
-date = "2022-11-05T19:44:32+05:30"
-title = "Name of the work 3"
+date = "2016-11-05T19:57:40+05:30"
+title = "El mundo en mi espejo"
 draft = false
 weight = 2
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Este libro cuenta la historia de un niño que descubre que su reflejo en el espejo es diferente a los de sus amigos. A través de la historia, el personaje aprende sobre la diversidad y la importancia de aceptar y amar a uno mismo, independientemente de cómo se vea.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+*El mundo en mi espejo* es un libro ilustrado que cuenta la historia de un niño llamado Lucio, quien descubre que su reflejo en el espejo no es el mismo que el de sus amigos. Él se siente confundido y triste por su apariencia diferente, pero con el tiempo aprende a aceptarse y amarse a sí mismo tal como es. La historia promueve valores de inclusión, autoaceptación y amor propio.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+![](https://user-images.githubusercontent.com/68626833/227718731-053f486d-6db1-4572-8a0e-e5bdd7b38a60.png)
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+### Tabla de contenido
+1. Lucio y sus amigos
+2. La casa de Lucio
+3. El espejo mágico
+4. El reflejo diferente
+5. La tristeza de Lucio
+6. El consejo de su abuela
+7. La búsqueda de respuestas
+8. La aceptación de uno mismo
+9. La belleza de la diversidad
+10. Lucio y sus amigos nuevamente.

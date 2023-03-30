@@ -4,7 +4,7 @@ showonlyimage = true
 draft = false
 date = "2022-11-05T19:53:42+05:30"
 title = "Feminismo en la cultura pop"
-weight = 5
+weight = 4
 +++
 
 Libro para adolescentes que explora el impacto del feminismo en la cultura popular. Desde la música, la televisión y las películas hasta los videojuegos y la literatura, el libro analiza cómo el feminismo ha influenciado y transformado la cultura popular.
