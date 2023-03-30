@@ -1,21 +1,18 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "About us"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+**METAP** es una editorial joven y entusiasta que surgió de la segunda edición del Startup Weekend Morelos, un evento de emprendimiento que reúne a personas de diferentes orígenes para crear soluciones innovadoras. El reto de la edición en la que participamos fue crear un proyecto que promoviera la inclusión y la diversidad. Nuestro equipo se inspiró en la idea de que la educación inclusiva es fundamental para fomentar una sociedad más justa y equitativa.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+<div>
+<p style = 'text-align:center;'>
+<img src="https://user-images.githubusercontent.com/68626833/228970745-27570246-2882-4857-897d-af2ae324f299.jpg" width="300px">
+</p>
+</div>
 
-![This is me][1]
+Desde entonces, hemos trabajado duro para crear publicaciones que aborden temas importantes y relevantes para nuestra sociedad actual, con un enfoque especial en la promoción de la educación inclusiva. Nos esforzamos por ofrecer contenido educativo de alta calidad que sea accesible y relevante para una amplia variedad de lectores. Somos un equipo joven y entusiasta que cree en el poder de la educación para transformar vidas y comunidades.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-#### Education
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+¡Esperamos que disfrutes nuestras publicaciones y nos acompañes en nuestro viaje para promover una educación inclusiva y equitativa para todos!
 
 [1]: /img/about.jpg
