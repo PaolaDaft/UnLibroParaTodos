@@ -1,31 +1,38 @@
 +++
 draft = false
-image = "img/portfolio/trifold.jpg"
+image = "https://user-images.githubusercontent.com/68626833/227661418-70543410-ab9e-4149-934e-aebce43cb787.jpg"
 showonlyimage = true
 date = "2016-11-05T20:22:08+05:30"
-title = "Item with image"
+title = "Desafiando Estereotipos"
 weight = 10
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Un libro que desafía los estereotipos de género y enseña a los adolescentes a ser ellos mismos sin importar lo que la sociedad espera de ellos.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Este libro tiene como objetivo ayudar a los adolescentes a desafiar los estereotipos de género y a aceptarse a sí mismos tal y como son. A través de historias inspiradoras, ejemplos prácticos y actividades interactivas, los jóvenes lectores aprenderán a reconocer los estereotipos de género en su vida cotidiana y a desafiarlos de manera efectiva.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![](https://user-images.githubusercontent.com/68626833/227718723-281700b0-f38c-46a8-aa76-75951bf7eec3.png)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+### Tabla de contenido:
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+1. Introducción
+    - ¿Qué son los estereotipos de género?
+    - ¿Cómo pueden afectar a los adolescentes?
+1. La presión social
+    - Las expectativas de género en la sociedad
+    - Cómo la presión social puede influir en la identidad de género y la autoestima
+1. La masculinidad tóxica
+    - ¿Qué es la masculinidad tóxica?
+    - Cómo puede afectar a los adolescentes y a sus relaciones
+1. La discriminación y el acoso
+    - Discriminación y acoso en función de la identidad de género
+    - Cómo pueden afectar a los adolescentes y cómo pueden ser enfrentados
+1. Desafiando los estereotipos
+    - Cómo desafiar los estereotipos de género en la vida cotidiana
+    - Cómo fomentar la inclusión y la diversidad
+1. Cierre y reflexiones finales
+    - Resumen de los temas principales
+    - Mensajes finales y recursos para seguir aprendiendo.
 
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+> En el libro, se abordan temas importantes como la masculinidad tóxica, la presión social para conformarse a ciertos estereotipos de género, la discriminación y el acoso en función de la identidad de género, y cómo pueden influir en la autoestima y el bienestar emocional de los adolescentes.
