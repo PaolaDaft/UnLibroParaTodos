@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2022-11-05T19:44:32+05:30"
 title = "Mi Familia Diversa"
 draft = false
-weight = 7
+weight = 7 
 +++
 
 Libro dirigido a adolescentes que celebra la diversidad y la inclusión en las familias modernas. A través de historias y ejemplos de familias diversas, el libro ayuda a los niños a comprender que no hay una sola forma "correcta" de tener una familia.
