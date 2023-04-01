@@ -13,9 +13,7 @@ languageCode = "en-us"
   style = "blue"
   description = "Un libro para todos: educación inclusiva"
   copyright = "&copy;2022 METAP"
-  sidebarAbout = [
-    '"Un libro para todos" es una iniciativa de METAP donde el objetivo es crear y distribuir libros de educación inclusiva ya que creemos que la mejor forma de promover la inclusión es forma conciencia de como hacer compañía es esta comunidades que son una minoría'
-  ]
+  sidebarAbout = ['"Un libro para todos" es una iniciativa de METAP donde el objetivo es crear y distribuir libros de educación inclusiva ya que creemos que la mejor forma de promover la inclusión es forma conciencia de como hacer compañía es esta comunidades que son una minoría']
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual

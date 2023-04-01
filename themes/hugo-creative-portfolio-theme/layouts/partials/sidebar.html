@@ -1,5 +1,11 @@
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
+    <div class="sidebar-logo">
+      <a href="https://github.com/PaolaDaft/UnLibroParaTodos">
+        <img src="https://user-images.githubusercontent.com/68626833/228976851-018e85ce-fb27-4825-9f10-326c224200ba.png" alt="Logo" width="200px">
+      </a>
+      <br></br>
+    </div>
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>

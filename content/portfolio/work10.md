@@ -12,7 +12,7 @@ weight = 10
 
 <div>
     <p style = 'text-align:center;'>
-    <img src="https://user-images.githubusercontent.com/68626833/227718720-2a9e0de5-7516-4d34-9d85-960631ba0592.png" alt="Mockup del libro" width="300px">
+    <img src="https://user-images.githubusercontent.com/68626833/227718720-2a9e0de5-7516-4d34-9d85-960631ba0592.png" alt="Mockup del libro" width="600px">
 </p>
 </div>
 
