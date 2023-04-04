@@ -1,4 +1,4 @@
-baseurl = "https://paoladaft.github.io/UnLibroParaTodos/" 
+baseurl = "https://paoladaft.github.io/UnLibroParaTodos/portfolio/" 
 title = "METAP"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
